@@ -1,12 +1,12 @@
 package fdfs_client
 
 import (
-	"testing"
 	"fmt"
+	"testing"
 )
 
 func TestConfig(t *testing.T) {
-	config, err := newConfig("fdfs.conf")
+	config, err := NewConfig("fdfs.conf")
 	if err != nil {
 		fmt.Println(err)
 		return;
