@@ -20,7 +20,7 @@ you can implement append with delete origin && upload new again
 
 **5 details see client_test.go,good luck ^_^**
 
-## $ go get github.com/tedcy/fdfs_client
+## $ go get github.com/cannotdescribe/fdfs_client
 
 # Author
 yue.cheng.ted@gmail.com
